@@ -1,6 +1,4 @@
-# Laboratorio-AWS-Step-Functions
-Laboratório prático para consolidar workflows automatizados usando AWS Step Functions.
-
+#Laboratório Prático: Consolidação de Workflows Automatizados com AWS Step Functions
 
 1. Objetivo
 Demonstrar a criação e automação de um fluxo de trabalho (workflow) utilizando AWS Step Functions, integrando serviços como AWS Lambda, S3, DynamoDB e SNS.
